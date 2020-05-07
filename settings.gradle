@@ -1,0 +1,6 @@
+rootProject.name='ARouterFramework'
+include ':app'
+include ':login'
+include ':annotations'
+include ':annotations_compiler'
+include ':arouter'
